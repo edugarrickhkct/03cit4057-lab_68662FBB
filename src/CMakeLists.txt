@@ -4,5 +4,5 @@ project(lab)
 file(GLOB SOURCE_FILES *.c *.cc)
 
 # Add test executable
-add_executable(mylab ${SOURCE_FILES})
+add_executable(mylab.out ${SOURCE_FILES})
 

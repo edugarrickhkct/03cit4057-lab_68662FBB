@@ -5,7 +5,7 @@ ans
 tests
 initGitHubRepo.sh
 updateGitHubRepo.sh
-bin
+build
 
 # Prerequisites
 *.d
